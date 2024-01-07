@@ -17,6 +17,7 @@ Terdapat Dua Folder Utama Yaitu
 
 Sementara itu, file output yang dikompilasi akan dihasilkan dalam folder `bin` secara default.
 > Hasil Output
+> 
 > ![image](https://github.com/littleboy12/PuzzleASix/assets/75067698/23fe0cd6-1bee-4c37-bcc9-c062cff1a14e)
 
 
