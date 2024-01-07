@@ -23,4 +23,7 @@ Sementara itu, file output yang dikompilasi akan dihasilkan dalam folder `bin` s
 
 ## Project
 
-Referensi Project dar `java T point`. [klik](https://www.javatpoint.com/Puzzle-Game)
+Folder Project  <b>PuzzelAsix</b> [Download](https://drive.google.com/file/d/1UU2uoktrah2Rzsej0Qqi-5EqKPPivGzD/view?usp=drive_link)
+
+Referensi Project dari `java T point`.   [klik](https://www.javatpoint.com/Puzzle-Game)
+
