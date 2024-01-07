@@ -2,8 +2,8 @@
 
 Project Puzzle yang buat sebagai Tugas Akhir Pemrograman Beriorentasi Objek (PBO).
 
-Nama : ALdi Tulus P.
-Nim  : 2200018097.
+Nama : ALdi Tulus P\n
+Nim  : 2200018097\n
 Kelas: C (Semester 3).
 
 ## Struktur Folder
