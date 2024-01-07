@@ -1,4 +1,4 @@
-## PuzzleAsix
+<h1 style="color : red">PuzzleAsix</h1>
 
 Project Puzzle yang buat sebagai Tugas Akhir Pemrograman Beriorentasi Objek (PBO).
 
