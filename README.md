@@ -21,6 +21,6 @@ Sementara itu, file output yang dikompilasi akan dihasilkan dalam folder `bin` s
 > ![image](https://github.com/littleboy12/PuzzleASix/assets/75067698/23fe0cd6-1bee-4c37-bcc9-c062cff1a14e)
 
 
-## Dependency Management
+## Project
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Referensi Project dar `java T point`. [klik](https://www.javatpoint.com/Puzzle-Game)
