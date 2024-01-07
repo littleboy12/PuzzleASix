@@ -2,6 +2,8 @@
 
 Project Puzzle yang buat sebagai Tugas Akhir Pemrograman Beriorentasi Objek (PBO).
 
+Di Buat Oleh :
+
 Nama   : ALdi Tulus P
 
 Nim    : 2200018097
@@ -21,7 +23,7 @@ Sementara itu, file output yang dikompilasi akan dihasilkan dalam folder `bin` s
 > ![image](https://github.com/littleboy12/PuzzleASix/assets/75067698/23fe0cd6-1bee-4c37-bcc9-c062cff1a14e)
 
 
-## Project
+## Project & Assets
 
 Folder Project  <b>PuzzelAsix</b> [Download](https://drive.google.com/file/d/1UU2uoktrah2Rzsej0Qqi-5EqKPPivGzD/view?usp=drive_link)
 
