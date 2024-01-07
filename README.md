@@ -1,15 +1,19 @@
-## Getting Started
+## PuzzleAsix
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Project Puzzle yang buat sebagai Tugas Akhir Pemrograman Beriorentasi Objek (PBO).
 
-## Folder Structure
+Nama : ALdi Tulus P
+Nim  : 2200018097
+Kelas: C (Semester 3)
 
-The workspace contains two folders by default, where:
+## Struktur Folder
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Terdapat Dua Folder Utama Yaitu
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- `src`: folder untuk menyimpan source code dan kebutuha package lain.
+- `lib`: folder untuk pemeliharaan.
+
+Sementara itu, file output yang dikompilasi akan dihasilkan dalam folder `bin` secara default.
 
 > If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
