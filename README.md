@@ -2,11 +2,11 @@
 
 Project Puzzle yang buat sebagai Tugas Akhir Pemrograman Beriorentasi Objek (PBO).
 
-Nama : ALdi Tulus P
+Nama   : ALdi Tulus P
 
-Nim  : 2200018097
+Nim    : 2200018097
 
-Kelas: C (Semester 3).
+Kelas  : C (Semester 3).
 
 ## Struktur Folder
 
@@ -16,6 +16,8 @@ Terdapat Dua Folder Utama Yaitu
 - `lib`: folder untuk pemeliharaan.
 
 Sementara itu, file output yang dikompilasi akan dihasilkan dalam folder `bin` secara default.
+> Hasil Output ![image](https://github.com/littleboy12/PuzzleASix/assets/75067698/23fe0cd6-1bee-4c37-bcc9-c062cff1a14e)
+
 
 > If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
